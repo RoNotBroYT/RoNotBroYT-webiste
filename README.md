@@ -1,1 +1,3 @@
-# RoNotBroYT-webiste
+# RoNotBroYT
+
+Welcome to my blog repo
